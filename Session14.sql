@@ -1,7 +1,4 @@
 
--- SESSION 14 - MYSQL TRANSACTION
--- Sinh viên: Ngọc
--- ===============================
 
 -- BÀI 1
 create database if not exists social_app_ngoc;
